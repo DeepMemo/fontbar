@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FontProgressBar">
+        <attr name="lineNum" format="integer" />
+        <attr name="locate" format="integer" />
+    </declare-styleable>
+
+
+    <declare-styleable name="FontProgress">
+        <attr name="num" format="integer" />
+    </declare-styleable>
+</resources>

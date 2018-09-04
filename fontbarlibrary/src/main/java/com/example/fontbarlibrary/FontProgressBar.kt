@@ -7,7 +7,7 @@ import android.view.MotionEvent
 import android.view.View
 import android.view.View.OnTouchListener
 import android.widget.FrameLayout
-import com.example.deep.fontbar.R
+import com.example.fontbarlibrary.R
 
 
 /**

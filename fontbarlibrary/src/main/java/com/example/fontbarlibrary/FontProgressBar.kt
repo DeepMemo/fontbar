@@ -1,4 +1,4 @@
-package com.bkvito.beikeshequ.ui.view
+package com.example.fontbarlibrary
 
 import android.animation.ObjectAnimator
 import android.content.Context
@@ -7,7 +7,6 @@ import android.view.MotionEvent
 import android.view.View
 import android.view.View.OnTouchListener
 import android.widget.FrameLayout
-import com.example.fontbarlibrary.R
 
 
 /**

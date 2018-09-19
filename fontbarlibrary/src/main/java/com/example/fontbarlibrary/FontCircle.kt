@@ -1,4 +1,4 @@
-package com.bkvito.beikeshequ.ui.view
+package com.example.fontbarlibrary
 
 import android.content.Context
 import android.graphics.Canvas
